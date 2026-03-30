@@ -109,9 +109,6 @@ The EASE parameters can be adjusted as needed. Their theoretical meanings are ex
 
 ## Notes
 
-* This repository may contain some experimental or redundant code from earlier explorations
-* We plan to further clean and reorganize the codebase
-
 If you find redundant scripts or have suggestions for improvement, feel free to open an issue.
 
 We may add more comments or further reorganize the codebase in the future.
